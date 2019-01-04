@@ -8,11 +8,13 @@
         "ext-json": "*",
         "beberlei/assert": "^3.0",
         "ircmaxell/random-lib": "^1.2",
+        "jms/serializer-bundle": "^2.4",
         "shrikeh/teapot": "^2.3",
         "symfony/console": "*",
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "*",
         "symfony/orm-pack": "^1.0",
+        "symfony/serializer": "*",
         "symfony/yaml": "*"
     },
     "require-dev": {
